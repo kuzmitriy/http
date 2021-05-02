@@ -1,0 +1,36 @@
+  .page {
+    margin: auto;
+    background-image: url(https://www.apple-wd.com/wp-content/uploads/2016/09/iPhone-7-Plus-Black-Render.jpg); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed
+  }
+  .header {        
+    font-family: 'Lora';  
+    width: 40%;
+    margin:auto;
+  }
+
+  .header__text {
+    color: rgb(255, 255, 255);           
+    font-family: 'Lora';
+    font-size: 300%; 
+    text-align: center;
+  }
+
+  .content__text {
+    color: rgb(255, 255, 255);           
+    font-family: 'Lora';
+    font-size: 200%; 
+    text-align: center; 
+  }
+
+  .footer {
+    height:300px;
+    display:flex;
+    color:white;
+    font-size:24px;  
+    margin:auto;  
+  
+  }
